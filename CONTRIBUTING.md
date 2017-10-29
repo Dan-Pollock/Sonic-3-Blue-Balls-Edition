@@ -4,7 +4,7 @@
 -Dan Pollock
 -Michael Berry
 
-**Special Stages**
+## **Special Stages** ##
 **Get Blue Balls Text**
 -Dan Pollock
 
