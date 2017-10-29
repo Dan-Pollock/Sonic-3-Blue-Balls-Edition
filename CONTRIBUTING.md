@@ -14,13 +14,12 @@
 **Red and White Arrows**
 - Michael Berry
 
-**Title Screen**
-- Michael Berry
+## **Title Screen** ##
 
 **Blue Balls Text**
 -Michael Berry
 
-**Sound Driver**
+## **Sound Driver** ##
 - Michael Berry
 
 **Drum Sample**
