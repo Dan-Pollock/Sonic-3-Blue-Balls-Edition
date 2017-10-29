@@ -2,16 +2,16 @@
 
 **Art**
 
--Dan Pollock
+- Dan Pollock
 
--Michael Berry
+- Michael Berry
 
 
 ## **Special Stages** ##
 
 **Get Blue Balls Text**
 
--Dan Pollock
+- Dan Pollock
 
 **Mapping Code**
 
@@ -27,7 +27,7 @@
 
 **Blue Balls Text**
 
--Michael Berry
+- Michael Berry
 
 
 ## **Sound Driver** ##
