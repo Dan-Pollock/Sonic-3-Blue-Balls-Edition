@@ -7,6 +7,7 @@
 - Michael Berry
 
 **Title Screen**
+- Michael Berry
 
 **Blue Balls Text**
 -Michael Berry
