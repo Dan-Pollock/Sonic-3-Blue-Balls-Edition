@@ -1,11 +1,12 @@
 # Credit #
 
+## General ##
+
 **Art**
 
 - Dan Pollock
 
 - Michael Berry
-
 
 ## **Special Stages** ##
 
@@ -21,14 +22,11 @@
 
 - Michael Berry
 
-
 ## **Title Screen** ##
-
 
 **Blue Balls Text**
 
 - Michael Berry
-
 
 ## **Sound Driver** ##
 
