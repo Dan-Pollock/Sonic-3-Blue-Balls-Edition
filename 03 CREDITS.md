@@ -1,14 +1,19 @@
  Credit  
 
-Mapping Code
--- Red and White Arrows
+**Mapping Code**
 - Michael Berry
 
-Title Screen
---Blue Balls Text
+**Red and White Arrows**
+- Michael Berry
+
+**Title Screen**
+
+**Blue Balls Text**
 -Michael Berry
 
-Sound Driver
--- Drum Sample
+**Sound Driver**
+- Michael Berry
+
+**Drum Sample**
 - Michael Berry
 
