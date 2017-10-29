@@ -1,5 +1,13 @@
  Credit  
 
+**Art**
+-Dan Pollock
+-Michael Berry
+
+**Special Stages**
+**Get Blue Balls Text**
+-Dan Pollock
+
 **Mapping Code**
 - Michael Berry
 
